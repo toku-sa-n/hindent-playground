@@ -1,0 +1,15 @@
+spec-version: 0.34.2
+name: hindent-playground
+version: 0.1.0.0
+
+author: Hiroki Tokunaga
+
+dependencies:
+  - base
+
+library:
+  source-dirs: src
+
+executable:
+  main: Main.hs
+  source-dirs: app
